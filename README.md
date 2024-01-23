@@ -1,1 +1,1 @@
-# AMXX
+# PLUGINY AMXX
